@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="23249238-307a-495e-bff1-d821e16ee2f8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Crock_Pot/Crock_Pot.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio03_11_Marzo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello_World/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello_World/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello_World/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello_World/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello_World/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello_World/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello_World/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello_World/Hello_World.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello_World/out/production/Hello_World/com/HACA/x00095119/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello_World/src/com/HACA/x00095119/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratorio02/Minecraft/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratorio02/Minecraft/.idea/artifacts/Minecraft_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratorio02/Minecraft/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratorio02/Minecraft/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratorio02/Minecraft/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratorio02/Minecraft/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratorio02/Minecraft/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratorio02/Minecraft/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratorio02/Minecraft/Minecraft.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratorio02/Minecraft/out/artifacts/Minecraft_jar/Minecraft.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratorio02/Minecraft/out/production/Minecraft/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratorio02/Minecraft/out/production/Minecraft/com/HACA/x00095119/HerrramientasMinecraft.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratorio02/Minecraft/out/production/Minecraft/com/HACA/x00095119/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratorio02/Minecraft/src/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratorio02/Minecraft/src/com/HACA/x00095119/HerrramientasMinecraft.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratorio02/Minecraft/src/com/HACA/x00095119/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PortafolioPrueba" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Ejercicio03_11_Marzo/com/HACA/x00095119/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/HACA/x00095119/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\paty6\IdeaProjects\Semana02_Ejercicio01\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZgUSi82oGZwDwUa7oNvpFvZtlX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.HACA.x00095119.Main" />
+      <module name="Semana02_Ejercicio01" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23249238-307a-495e-bff1-d821e16ee2f8" name="Default Changelist" comment="" />
+      <created>1585260232039</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585260232039</updated>
+      <workItem from="1585260237122" duration="260000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
