@@ -2,7 +2,7 @@
 
 namespace Pre_Parcial
 {
-    partial class Form1
+    partial class Form2
     {
         /// <summary>
         /// Required designer variable.
@@ -31,31 +31,30 @@ namespace Pre_Parcial
         /// </summary>
         private void InitializeComponent()
         {
-            this.administrador1 = new Pre_Parcial.Administrador();
+            this.normalUser1 = new Pre_Parcial.NormalUser();
             this.SuspendLayout();
             // 
-            // administrador1
+            // normalUser1
             // 
-            this.administrador1.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.administrador1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.administrador1.Location = new System.Drawing.Point(0, 0);
-            this.administrador1.Name = "administrador1";
-            this.administrador1.Size = new System.Drawing.Size(488, 279);
-            this.administrador1.TabIndex = 0;
+            this.normalUser1.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.normalUser1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.normalUser1.Location = new System.Drawing.Point(0, 0);
+            this.normalUser1.Name = "normalUser1";
+            this.normalUser1.Size = new System.Drawing.Size(465, 268);
+            this.normalUser1.TabIndex = 0;
             // 
-            // Form1
+            // Form2
             // 
-            this.AccessibleDescription = "ffsfsdfsfsdf";
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(488, 279);
-            this.Controls.Add(this.administrador1);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.ClientSize = new System.Drawing.Size(465, 268);
+            this.Controls.Add(this.normalUser1);
+            this.Name = "Form2";
+            this.Text = "Form2";
             this.ResumeLayout(false);
         }
 
-        private Pre_Parcial.Administrador administrador1;
+        private Pre_Parcial.NormalUser normalUser1;
 
         #endregion
     }
