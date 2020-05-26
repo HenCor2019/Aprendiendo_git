@@ -1,0 +1,17 @@
+C:\Users\USUARIO\RiderProjects\Calculators\Calculators\bin\Debug\Calculators.exe.config
+C:\Users\USUARIO\RiderProjects\Calculators\Calculators\bin\Debug\Calculators.exe
+C:\Users\USUARIO\RiderProjects\Calculators\Calculators\bin\Debug\Calculators.pdb
+C:\Users\USUARIO\RiderProjects\Calculators\Calculators\obj\Debug\Calculators.csprojAssemblyReference.cache
+C:\Users\USUARIO\RiderProjects\Calculators\Calculators\obj\Debug\Calculators.Properties.Resources.resources
+C:\Users\USUARIO\RiderProjects\Calculators\Calculators\obj\Debug\Calculators.csproj.GenerateResource.cache
+C:\Users\USUARIO\RiderProjects\Calculators\Calculators\obj\Debug\Calculators.exe
+C:\Users\USUARIO\RiderProjects\Calculators\Calculators\obj\Debug\Calculators.pdb
+C:\Users\paty6\PruebasLocasGit\Portafolio_HACA_00095119_POO-01201\Calculators\Calculators\obj\Debug\Calculators.csprojResolveAssemblyReference.cache
+C:\Users\paty6\PruebasLocasGit\Portafolio_HACA_00095119_POO-01201\Calculators\Calculators\obj\Debug\Calculators.Properties.Resources.resources
+C:\Users\paty6\PruebasLocasGit\Portafolio_HACA_00095119_POO-01201\Calculators\Calculators\obj\Debug\Calculators.csproj.GenerateResource.Cache
+C:\Users\paty6\PruebasLocasGit\Portafolio_HACA_00095119_POO-01201\Calculators\Calculators\obj\Debug\Calculators.exe
+C:\Users\paty6\PruebasLocasGit\Portafolio_HACA_00095119_POO-01201\Calculators\Calculators\obj\Debug\Calculators.pdb
+C:\Users\paty6\PruebasLocasGit\Portafolio_HACA_00095119_POO-01201\Calculators\Calculators\bin\Debug\Calculators.exe.config
+C:\Users\paty6\PruebasLocasGit\Portafolio_HACA_00095119_POO-01201\Calculators\Calculators\bin\Debug\Calculators.exe
+C:\Users\paty6\PruebasLocasGit\Portafolio_HACA_00095119_POO-01201\Calculators\Calculators\bin\Debug\Calculators.pdb
+C:\Users\paty6\PruebasLocasGit\Portafolio_HACA_00095119_POO-01201\Calculators\Calculators\obj\Debug\Calculators.Form1.resources
