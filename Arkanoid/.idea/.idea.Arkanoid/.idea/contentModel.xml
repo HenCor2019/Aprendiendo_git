@@ -32,6 +32,8 @@
         <e p="plataform.png" t="Include" />
       </e>
       <e p="Vista" t="Include">
+        <e p="ConnectionExtra.cs" t="Include" />
+        <e p="ConnectionExtra.Designer.cs" t="Include" />
         <e p="Form1.cs" t="Include" />
         <e p="Form1.Designer.cs" t="Include" />
         <e p="Form1.resx" t="Include" />
