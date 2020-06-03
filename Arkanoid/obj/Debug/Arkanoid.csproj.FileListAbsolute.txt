@@ -40,3 +40,15 @@ C:\Users\paty6\Arkanoid\LosJajant_Arkanoid\Source Code\Arkanoid\obj\Debug\Arkano
 C:\Users\paty6\Arkanoid\LosJajant_Arkanoid\Source Code\Arkanoid\obj\Debug\Arkanoid.exe
 C:\Users\paty6\Arkanoid\LosJajant_Arkanoid\Source Code\Arkanoid\obj\Debug\Arkanoid.pdb
 C:\Users\paty6\Arkanoid\LosJajant_Arkanoid\Source Code\Arkanoid\obj\Debug\Arkanoid.Menu.resources
+C:\Users\Ely Montes\Desktop\Repositorio\Portafolio_HACA_00095119_POO-01201\Arkanoid\bin\Debug\Arkanoid.exe.config
+C:\Users\Ely Montes\Desktop\Repositorio\Portafolio_HACA_00095119_POO-01201\Arkanoid\bin\Debug\Arkanoid.exe
+C:\Users\Ely Montes\Desktop\Repositorio\Portafolio_HACA_00095119_POO-01201\Arkanoid\bin\Debug\Arkanoid.pdb
+C:\Users\Ely Montes\Desktop\Repositorio\Portafolio_HACA_00095119_POO-01201\Arkanoid\obj\Debug\Arkanoid.csprojResolveAssemblyReference.cache
+C:\Users\Ely Montes\Desktop\Repositorio\Portafolio_HACA_00095119_POO-01201\Arkanoid\obj\Debug\Arkanoid.Properties.Resources.resources
+C:\Users\Ely Montes\Desktop\Repositorio\Portafolio_HACA_00095119_POO-01201\Arkanoid\obj\Debug\Arkanoid.Form1.resources
+C:\Users\Ely Montes\Desktop\Repositorio\Portafolio_HACA_00095119_POO-01201\Arkanoid\obj\Debug\Arkanoid.Game.resources
+C:\Users\Ely Montes\Desktop\Repositorio\Portafolio_HACA_00095119_POO-01201\Arkanoid\obj\Debug\Arkanoid.Menu.resources
+C:\Users\Ely Montes\Desktop\Repositorio\Portafolio_HACA_00095119_POO-01201\Arkanoid\obj\Debug\Arkanoid.Top10.resources
+C:\Users\Ely Montes\Desktop\Repositorio\Portafolio_HACA_00095119_POO-01201\Arkanoid\obj\Debug\Arkanoid.csproj.GenerateResource.Cache
+C:\Users\Ely Montes\Desktop\Repositorio\Portafolio_HACA_00095119_POO-01201\Arkanoid\obj\Debug\Arkanoid.exe
+C:\Users\Ely Montes\Desktop\Repositorio\Portafolio_HACA_00095119_POO-01201\Arkanoid\obj\Debug\Arkanoid.pdb
