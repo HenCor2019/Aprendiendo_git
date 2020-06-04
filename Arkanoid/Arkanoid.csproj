@@ -66,6 +66,12 @@
         <Compile Include="Vista\Game.Designer.cs">
           <DependentUpon>Game.cs</DependentUpon>
         </Compile>
+        <Compile Include="Vista\GoodMorning.cs">
+          <SubType>UserControl</SubType>
+        </Compile>
+        <Compile Include="Vista\GoodMorning.Designer.cs">
+          <DependentUpon>GoodMorning.cs</DependentUpon>
+        </Compile>
         <Compile Include="Vista\Menu.cs">
           <SubType>UserControl</SubType>
         </Compile>
@@ -93,6 +99,9 @@
         <EmbeddedResource Include="Vista\Game.resx">
           <DependentUpon>Game.cs</DependentUpon>
         </EmbeddedResource>
+        <EmbeddedResource Include="Vista\GoodMorning.resx">
+          <DependentUpon>GoodMorning.cs</DependentUpon>
+        </EmbeddedResource>
         <EmbeddedResource Include="Vista\Menu.resx">
           <DependentUpon>Menu.cs</DependentUpon>
         </EmbeddedResource>
@@ -114,6 +123,7 @@
     </ItemGroup>
     <ItemGroup>
       <Content Include="Resources\background.png" />
+      <Content Include="Resources\background_hugo.png" />
       <Content Include="Resources\ball.png" />
       <Content Include="Resources\block1t.png" />
       <Content Include="Resources\block2t.png" />
