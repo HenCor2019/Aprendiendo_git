@@ -48,6 +48,12 @@
     <ItemGroup>
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
+        <Compile Include="Vista\BuenasTarde.cs">
+          <SubType>UserControl</SubType>
+        </Compile>
+        <Compile Include="Vista\BuenasTarde.Designer.cs">
+          <DependentUpon>BuenasTarde.cs</DependentUpon>
+        </Compile>
         <Compile Include="Vista\ConnectionExtra.cs">
           <SubType>UserControl</SubType>
         </Compile>
@@ -87,6 +93,9 @@
             <AutoGen>True</AutoGen>
             <DependentUpon>Resources.resx</DependentUpon>
         </Compile>
+        <EmbeddedResource Include="Vista\BuenasTarde.resx">
+          <DependentUpon>BuenasTarde.cs</DependentUpon>
+        </EmbeddedResource>
         <EmbeddedResource Include="Vista\Form1.resx">
           <DependentUpon>Form1.cs</DependentUpon>
         </EmbeddedResource>
