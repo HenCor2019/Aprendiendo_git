@@ -22,7 +22,8 @@ namespace Arkanoid
         {
             InitializeComponent();
             MaximizeBox = false;
-            uc=new BuenasTarde();
+            //uc = *ponganElUserQueQuierenProbar*;
+            uc=new Buenosdias6();
             this.panel1.Controls.Add(uc);
         }
         
