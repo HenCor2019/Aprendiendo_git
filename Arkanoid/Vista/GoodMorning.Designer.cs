@@ -37,14 +37,14 @@ namespace Arkanoid
             // label1
             // 
             this.label1.BackColor = System.Drawing.Color.Transparent;
-            this.label1.Font = new System.Drawing.Font("Harrington", 72F, System.Drawing.FontStyle.Italic,
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 72F, System.Drawing.FontStyle.Italic,
                 System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.label1.ForeColor = System.Drawing.Color.Maroon;
-            this.label1.Location = new System.Drawing.Point(29, 34);
+            this.label1.Location = new System.Drawing.Point(29, 33);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(459, 231);
+            this.label1.Size = new System.Drawing.Size(458, 231);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Good \r\nMorning!";
+            this.label1.Text = "gm";
             // 
             // GoodMorning
             // 
