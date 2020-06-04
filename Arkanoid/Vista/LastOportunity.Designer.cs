@@ -2,7 +2,7 @@
 
 namespace Arkanoid
 {
-    partial class BuenasTarde
+    partial class LastOportunity
     {
         /// <summary> 
         /// Required designer variable.
@@ -38,46 +38,43 @@ namespace Arkanoid
             // 
             // tableLayoutPanel1
             // 
-            this.tableLayoutPanel1.BackColor = System.Drawing.Color.Transparent;
             this.tableLayoutPanel1.ColumnCount = 2;
             this.tableLayoutPanel1.ColumnStyles.Add(
-                new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 6.560284F));
+                new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 6.028369F));
             this.tableLayoutPanel1.ColumnStyles.Add(
-                new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 93.43971F));
+                new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 93.97163F));
             this.tableLayoutPanel1.Controls.Add(this.label1, 1, 0);
             this.tableLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tableLayoutPanel1.Location = new System.Drawing.Point(0, 0);
-            this.tableLayoutPanel1.Margin = new System.Windows.Forms.Padding(0);
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
             this.tableLayoutPanel1.RowCount = 2;
             this.tableLayoutPanel1.RowStyles.Add(
-                new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 89.41441F));
+                new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 88.83721F));
             this.tableLayoutPanel1.RowStyles.Add(
-                new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 10.58559F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(564, 444);
+                new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.16279F));
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(564, 430);
             this.tableLayoutPanel1.TabIndex = 0;
             // 
             // label1
             // 
             this.label1.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label1.BackColor = System.Drawing.Color.OldLace;
-            this.label1.Font = new System.Drawing.Font("Blader", 27.75F, System.Drawing.FontStyle.Regular,
+            this.label1.BackColor = System.Drawing.Color.LightBlue;
+            this.label1.Font = new System.Drawing.Font("Segoe UI", 26.25F, System.Drawing.FontStyle.Regular,
                 System.Drawing.GraphicsUnit.Point, ((byte) (0)));
-            this.label1.Location = new System.Drawing.Point(111, 77);
+            this.label1.Location = new System.Drawing.Point(150, 104);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(378, 242);
+            this.label1.Size = new System.Drawing.Size(297, 174);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Buenas Tardes";
-            this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.label1.Text = "Hoy si";
             // 
-            // BuenasTarde
+            // LastOportunity
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.Transparent;
             this.Controls.Add(this.tableLayoutPanel1);
-            this.Margin = new System.Windows.Forms.Padding(0);
-            this.Name = "BuenasTarde";
-            this.Size = new System.Drawing.Size(564, 444);
+            this.Name = "LastOportunity";
+            this.Size = new System.Drawing.Size(564, 430);
             this.tableLayoutPanel1.ResumeLayout(false);
             this.ResumeLayout(false);
         }
