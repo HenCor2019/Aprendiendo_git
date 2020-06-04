@@ -54,6 +54,12 @@
         <Compile Include="Vista\BuenasTarde.Designer.cs">
           <DependentUpon>BuenasTarde.cs</DependentUpon>
         </Compile>
+        <Compile Include="Vista\Buenosdias6.cs">
+          <SubType>UserControl</SubType>
+        </Compile>
+        <Compile Include="Vista\Buenosdias6.Designer.cs">
+          <DependentUpon>Buenosdias6.cs</DependentUpon>
+        </Compile>
         <Compile Include="Vista\ConnectionExtra.cs">
           <SubType>UserControl</SubType>
         </Compile>
@@ -102,6 +108,9 @@
         <EmbeddedResource Include="Vista\BuenasTarde.resx">
           <DependentUpon>BuenasTarde.cs</DependentUpon>
         </EmbeddedResource>
+        <EmbeddedResource Include="Vista\Buenosdias6.resx">
+          <DependentUpon>Buenosdias6.cs</DependentUpon>
+        </EmbeddedResource>
         <EmbeddedResource Include="Vista\Form1.resx">
           <DependentUpon>Form1.cs</DependentUpon>
         </EmbeddedResource>
@@ -143,6 +152,7 @@
       <Content Include="Resources\heartn.png" />
       <Content Include="Resources\logo.png" />
       <Content Include="Resources\plataform.png" />
+      <Content Include="Resources\Untitled_design__5_.png" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
