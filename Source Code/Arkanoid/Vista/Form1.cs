@@ -18,9 +18,14 @@ namespace Arkanoid
         {
             InitializeComponent();
             MaximizeBox = false;
-            DoubleBuffered = true;
+            this.DoubleBuffered = true;
+            //Agregando componente al panel mediante la clase controladora
+            PanelControlator.panel1 = this.panel1;
+            PanelControlator.panel1.Controls.Add(PanelControlator.menu);
+            PanelControlator.uc = PanelControlator.menu;
+            
         }
-
+        
         protected override void WndProc(ref Message m)
         {
             const int wmSyscommand = 0x0112;
@@ -43,18 +48,6 @@ namespace Arkanoid
             }
 
             base.WndProc(ref m);
-        }
-        
-        private void Form1_Load(object sender, EventArgs e)
-        {
-            var watch = System.Diagnostics.Stopwatch.StartNew();
-            BackgroundImage = Properties.Resources.background;
-            //Agregando componente al panel mediante la clase controladora
-            PanelControlator.panel1 = this.panel1;
-            PanelControlator.panel1.Controls.Add(PanelControlator.menu);
-            PanelControlator.uc = PanelControlator.menu;
-            watch.Stop();
-            MessageBox.Show($"Time: {watch.ElapsedMilliseconds} ms");
         }
     }
 }
