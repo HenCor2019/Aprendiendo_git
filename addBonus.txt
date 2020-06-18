@@ -1,0 +1,24 @@
+private void timerPoints_Tick(object sender, EventArgs e)
+        {
+            //Realizando cuenta regresiva hasta cero
+            if (scoreBonus != 0)
+            {
+
+                if (scoreBonus - diffScore < diffScore)
+                {
+                    diffScore = scoreBonus; //Evita restar mas
+                }
+                
+                //Cambia el score
+                scoreBonus-=diffScore; 
+                scoreTotal+=diffScore;
+                
+                //Actualiza los labels
+                label7.Text = "Bonus: " + scoreBonus.ToString();
+                label8.Text = "Total: " + scoreTotal.ToString();
+            }
+            else
+            {
+                timerPoints.Stop();
+            }
+        }
