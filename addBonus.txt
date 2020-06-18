@@ -1,3 +1,10 @@
+Propuesta:
+
+Nota: Aqui diffScore es una variable privada,puede ser local o como mejor gustes
+
+El timer tiene un intervalo de 1
+diffScore tiene un valor de 55
+
 private void timerPoints_Tick(object sender, EventArgs e)
         {
             //Realizando cuenta regresiva hasta cero
